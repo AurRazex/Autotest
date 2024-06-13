@@ -1,4 +1,4 @@
-package OOP.Lesson3;
+package OOP.Lesson3_4_6.Model;
 
 public class Teacher extends User{
     private Integer teacherId;

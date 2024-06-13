@@ -1,4 +1,6 @@
-package OOP.Lesson3;
+package OOP.Lesson3_4_6.View;
+
+import OOP.Lesson3_4_6.Model.Student;
 
 import java.util.List;
 

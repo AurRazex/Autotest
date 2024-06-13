@@ -1,4 +1,6 @@
-package OOP.Lesson3;
+package OOP.Lesson3_4_6.Comparate;
+
+import OOP.Lesson3_4_6.Model.User;
 
 import java.util.Comparator;
 

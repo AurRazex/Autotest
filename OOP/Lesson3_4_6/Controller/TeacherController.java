@@ -1,4 +1,8 @@
-package OOP.Lesson3;
+package OOP.Lesson3_4_6.Controller;
+
+import OOP.Lesson3_4_6.Service.TeacherService;
+import OOP.Lesson3_4_6.Model.Teacher;
+import OOP.Lesson3_4_6.View.TeacherView;
 
 import java.util.List;
 

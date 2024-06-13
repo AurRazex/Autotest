@@ -1,4 +1,4 @@
-package OOP.Lesson3;
+package OOP.Lesson3_4_6.Model;
 
 import java.util.ArrayList;
 import java.util.Iterator;

@@ -1,4 +1,7 @@
-package OOP.Lesson3;
+package OOP.Lesson3_4_6.Iterator;
+
+import OOP.Lesson3_4_6.Model.Student;
+import OOP.Lesson3_4_6.Model.StudentGroup;
 
 import java.util.Iterator;
 import java.util.List;

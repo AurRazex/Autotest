@@ -1,4 +1,10 @@
-package OOP.Lesson3;
+package OOP.Lesson3_4_6.Controller;
+
+import OOP.Lesson3_4_6.Service.StreamService;
+import OOP.Lesson3_4_6.Service.StudentGroupService;
+import OOP.Lesson3_4_6.Model.Stream;
+import OOP.Lesson3_4_6.Model.Student;
+import OOP.Lesson3_4_6.View.StudentView;
 
 import java.util.List;
 
