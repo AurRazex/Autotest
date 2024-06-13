@@ -29,8 +29,8 @@ public class Controller {
         return (Teacher) userService.create(teacher);
     }
 
-    public StudentGroup createGroup(Integer num, Teacher teacher, Student... students) {
-        return groupService.CreateGroup(num, teacher, students);
+    public StudentGroup createGroup(Integer numberGroup, Teacher teacher, Student... students) {
+        return groupService.CreateGroup(numberGroup, teacher, students);
     }
 
     public void printStudents(Student student) {
