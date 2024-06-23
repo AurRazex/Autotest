@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Unit_Test/Lesson1/Test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Unit_Test/Lesson2/Test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Unit_Test/Lesson3/Test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Unit_Test/Lesson4/Test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -38,5 +39,6 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="mockito-core-5.12.0" level="project" />
   </component>
 </module>
