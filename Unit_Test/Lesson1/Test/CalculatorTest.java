@@ -1,4 +1,5 @@
-package Unit_Test.Lesson1;
+import Unit_Test.Lesson1.Calculator;
+import org.assertj.core.api.Assertions;
 
 import static org.assertj.core.api.Assertions.*;
 
@@ -15,7 +16,7 @@ public class CalculatorTest {
 
     public static void testCalculateDiscountByBasicFunctionality(){
 
-        assertThat(Calculator.calculateDiscount(122.33, 3)).isEqualTo(118.66);
+        Assertions.assertThat(Calculator.calculateDiscount(122.33, 3)).isEqualTo(118.66);
         System.out.println("Сумма к оплате с учетом скидки " + Calculator.calculateDiscount(122.33,3));
     }
 

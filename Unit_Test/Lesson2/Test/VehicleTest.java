@@ -1,5 +1,6 @@
-package Unit_Test.Lesson2;
-
+import Unit_Test.Lesson2.Car;
+import Unit_Test.Lesson2.Motorcycle;
+import Unit_Test.Lesson2.Vehicle;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
