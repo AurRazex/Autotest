@@ -9,6 +9,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Unit_Test/Lesson2/Test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Unit_Test/Lesson3/Test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Unit_Test/Lesson4/Test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Unit_Test/Lesson6/Test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Unit_Test/Lesson7/Test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -39,6 +41,10 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="mockito-core-5.12.0" level="project" />
+    <orderEntry type="library" exported="" name="junit-jupiter-api-5.9.1" level="project" />
+    <orderEntry type="library" exported="" name="junit-platform-commons-1.9.1" level="project" />
+    <orderEntry type="library" exported="" name="mockito-core-5.12.0 (2)" level="project" />
+    <orderEntry type="library" exported="" name="byte-buddy-agent-1.14.17 (2)" level="project" />
+    <orderEntry type="library" exported="" name="mockito-core-5.12.0 (3)" level="project" />
   </component>
 </module>
